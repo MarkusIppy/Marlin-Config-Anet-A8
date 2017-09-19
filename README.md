@@ -1,2 +1,2 @@
 # Marlin-Config-Anet-A8
-My Personal Anet8 configuration for Marlin
+My Personal Anet8 configuration for Marlin currently untested
